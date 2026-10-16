@@ -1,0 +1,6 @@
+{
+  "name": "EzzyBIZZ - Barber & Beauty Business Assistant",
+  "description": "Beginner-friendly business assistant for barbershops and beauty entrepreneurs to track daily sales, expenses, profits, service margins, and notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
